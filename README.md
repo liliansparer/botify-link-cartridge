@@ -1,10 +1,6 @@
 Botify LogAnalyzer OCAPI Integration Cartridge
-Description: Botify is the leading enterprise SEO platform that helps enterprise ecommerce brands turn organic search into a sustainable and profitable channel for revenue.
 
-Categories: OCAPI, Log Analysis, SEO
+This cartridge is deprecated. You can now use SFCC's Logpush feature to upload log files directly to an S3 bucket
+More details here: https://support.botify.com/en/articles/9108621-integrating-salesforce-commerce-cloud-sfcc-log-data
 
-Version: 20.1.0
-
-Last Certification Date: August 12th, 2020
-
-Contact: Thomas Flechet (thomasf@botify.com)
+Last update: September 24th, 2026
